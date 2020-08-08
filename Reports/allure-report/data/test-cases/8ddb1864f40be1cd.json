@@ -1,0 +1,37 @@
+{
+  "uid" : "8ddb1864f40be1cd",
+  "name" : "Then I verify hotels are 2 star rating",
+  "historyId" : "| 1 |:| 2 |#Then I verify hotels are 2 star rating",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "| 1 |"
+  }, {
+    "name" : "testClass",
+    "value" : "| 2 |"
+  }, {
+    "name" : "package",
+    "value" : "| 2 |"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8ddb1864f40be1cd.json",
+  "parameterValues" : [ ]
+}

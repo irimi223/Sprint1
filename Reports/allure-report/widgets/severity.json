@@ -1,0 +1,369 @@
+[ {
+  "uid" : "2aac969741517d89",
+  "name" : "| 6 |",
+  "time" : {
+    "duration" : 844
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "665c47faa8f178f2",
+  "name" : "Given I am on hotels landing page",
+  "time" : {
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "2580c1774a2f3846",
+  "name" : "Then I see 6 child age dropdowns",
+  "time" : {
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "878041477497828e",
+  "name" : "Given I am on hotels landing page",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9515c2a8b19b62f3",
+  "name" : "Then I verify hotels are 3 star rating",
+  "time" : {
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "94e0d36185c25b7e",
+  "name" : "When I select 1 in children dropdown",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a32e18e797e94644",
+  "name" : "Given I am on hotels landing page",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "855143956573eb95",
+  "name" : "Then I verify hotels are 4 star rating",
+  "time" : {
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7766028e17782a2d",
+  "name" : "When I click on 5 star",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1590dbea785fd413",
+  "name" : "Given I am on darksky home page",
+  "time" : {
+    "duration" : 68
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "600ea4d41f38138d",
+  "name" : "Then I see 5 child age dropdowns",
+  "time" : {
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8ddb1864f40be1cd",
+  "name" : "Then I verify hotels are 2 star rating",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4a64e407a89c0eca",
+  "name" : "Given I am on hotels landing page",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a7b196abfa5f0fab",
+  "name" : "| 3 |",
+  "time" : {
+    "duration" : 785
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "50a3eb0c66fb8e37",
+  "name" : "Then I see 4 child age dropdowns",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "63ef307ae64a1aed",
+  "name" : "Given I am on default locations search result screen",
+  "time" : {
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3eb1faaf912b9262",
+  "name" : "When I click on 2 star",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "122007eb8e979b1d",
+  "name" : "When I click on 3 star",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "350bdce9a47046d9",
+  "name" : "When I select 5 in children dropdown",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c290bade53bb670e",
+  "name" : "Then I see 1 child age dropdowns",
+  "time" : {
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5dfcd1878627af5",
+  "name" : "Given I am on default locations search result screen",
+  "time" : {
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "66819d3bb7271d6a",
+  "name" : "Then I see 3 child age dropdowns",
+  "time" : {
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "99e0b7775a44d5b2",
+  "name" : "When I select 2 in children dropdown",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4fdca9a2533ef7db",
+  "name" : "Given I am on hotels landing page",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f34236c2a3030394",
+  "name" : "When I select 3 in children dropdown",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "1c29f9c1e5b26125",
+  "name" : "Given I am on hotels landing page",
+  "time" : {
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "27368da6500f4416",
+  "name" : "Then I see 0 child age dropdowns",
+  "time" : {
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "3754094603e8572f",
+  "name" : "When I select 6 in children dropdown",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "9de7706863891b0f",
+  "name" : "Given I am on default locations search result screen",
+  "time" : {
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b9be2657916a6f3e",
+  "name" : "Scenario: Verify timeLine is displayed in correct format",
+  "time" : {
+    "duration" : 837
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "94df284e3192f385",
+  "name" : "When I select 0 in children dropdown",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e6bce214d728ad06",
+  "name" : "| 2 |",
+  "time" : {
+    "duration" : 794
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fafd2048201bd943",
+  "name" : "Then I see 2 child age dropdowns",
+  "time" : {
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7364f103fb42e8d7",
+  "name" : "| 0 |",
+  "time" : {
+    "duration" : 743
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "fcb5c74f80c3fe9c",
+  "name" : "Given I am on hotels landing page",
+  "time" : {
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c400bfd577301089",
+  "name" : "| 4 |",
+  "time" : {
+    "duration" : 703
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "6fee4f4c2e42e0a3",
+  "name" : "Then I verify hotels are 1 star rating",
+  "time" : {
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c1908df70766ee7c",
+  "name" : "Given I am on default locations search result screen",
+  "time" : {
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "908557f4383facf9",
+  "name" : "Given I am on default locations search result screen",
+  "time" : {
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a2fede817eccc05b",
+  "name" : "When I select 4 in children dropdown",
+  "time" : {
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "f7c3a6377e6e5f1c",
+  "name" : "When I click on 4 star",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a97a5412c651bc4d",
+  "name" : "Then I verify timeline is displayed with 2 hours increment with 12 data points",
+  "time" : {
+    "duration" : 3
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b67f523a97ba5acf",
+  "name" : "| 1 |",
+  "time" : {
+    "duration" : 841
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "c724b994527f0a17",
+  "name" : "When I click on 1 star",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "591a9df84a1afc41",
+  "name" : "| 5 |",
+  "time" : {
+    "duration" : 730
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e636707a28a88f8e",
+  "name" : "Then I verify hotels are 5 star rating",
+  "time" : {
+    "duration" : 2
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

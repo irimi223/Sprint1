@@ -1,0 +1,37 @@
+{
+  "uid" : "f7c3a6377e6e5f1c",
+  "name" : "When I click on 4 star",
+  "historyId" : "| 1 |:| 4 |#When I click on 4 star",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "| 1 |"
+  }, {
+    "name" : "testClass",
+    "value" : "| 4 |"
+  }, {
+    "name" : "package",
+    "value" : "| 4 |"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f7c3a6377e6e5f1c.json",
+  "parameterValues" : [ ]
+}

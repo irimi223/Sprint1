@@ -1,0 +1,37 @@
+{
+  "uid" : "2580c1774a2f3846",
+  "name" : "Then I see 6 child age dropdowns",
+  "historyId" : "| 1 |:| 6 |#Then I see 6 child age dropdowns",
+  "time" : {
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "| 1 |"
+  }, {
+    "name" : "testClass",
+    "value" : "| 6 |"
+  }, {
+    "name" : "package",
+    "value" : "| 6 |"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2580c1774a2f3846.json",
+  "parameterValues" : [ ]
+}

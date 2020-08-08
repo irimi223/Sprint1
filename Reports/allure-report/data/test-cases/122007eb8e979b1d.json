@@ -1,0 +1,37 @@
+{
+  "uid" : "122007eb8e979b1d",
+  "name" : "When I click on 3 star",
+  "historyId" : "| 1 |:| 3 |#When I click on 3 star",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "| 1 |"
+  }, {
+    "name" : "testClass",
+    "value" : "| 3 |"
+  }, {
+    "name" : "package",
+    "value" : "| 3 |"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "122007eb8e979b1d.json",
+  "parameterValues" : [ ]
+}

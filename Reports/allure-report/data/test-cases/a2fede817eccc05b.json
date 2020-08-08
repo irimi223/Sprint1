@@ -1,0 +1,37 @@
+{
+  "uid" : "a2fede817eccc05b",
+  "name" : "When I select 4 in children dropdown",
+  "historyId" : "| 1 |:| 4 |#When I select 4 in children dropdown",
+  "time" : {
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "| 1 |"
+  }, {
+    "name" : "testClass",
+    "value" : "| 4 |"
+  }, {
+    "name" : "package",
+    "value" : "| 4 |"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a2fede817eccc05b.json",
+  "parameterValues" : [ ]
+}

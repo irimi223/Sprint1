@@ -1,0 +1,37 @@
+{
+  "uid" : "50a3eb0c66fb8e37",
+  "name" : "Then I see 4 child age dropdowns",
+  "historyId" : "| 1 |:| 4 |#Then I see 4 child age dropdowns",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "| 1 |"
+  }, {
+    "name" : "testClass",
+    "value" : "| 4 |"
+  }, {
+    "name" : "package",
+    "value" : "| 4 |"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "50a3eb0c66fb8e37.json",
+  "parameterValues" : [ ]
+}

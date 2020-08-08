@@ -1,0 +1,784 @@
+{
+  "| 1 |:| 2 |#Then I see 2 child age dropdowns" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fafd2048201bd943",
+      "status" : "passed",
+      "time" : {
+        "duration" : 3
+      }
+    } ]
+  },
+  "| 1 |:| 3 |#When I click on 3 star" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "122007eb8e979b1d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "| 1 |:Scenario: Verify timeLine is displayed in correct format#Scenario: Verify timeLine is displayed in correct format" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b9be2657916a6f3e",
+      "status" : "passed",
+      "time" : {
+        "duration" : 837
+      }
+    } ]
+  },
+  "| 1 |:| 4 |#Given I am on default locations search result screen" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9de7706863891b0f",
+      "status" : "passed",
+      "time" : {
+        "duration" : 1
+      }
+    } ]
+  },
+  "| 1 |:| 4 |#Given I am on hotels landing page" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "fcb5c74f80c3fe9c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 1
+      }
+    } ]
+  },
+  "| 1 |:| 3 |#When I select 3 in children dropdown" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f34236c2a3030394",
+      "status" : "passed",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "| 1 |:| 5 |#Then I verify hotels are 5 star rating" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e636707a28a88f8e",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2
+      }
+    } ]
+  },
+  "| 1 |:| 1 |#Then I see 1 child age dropdowns" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c290bade53bb670e",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2
+      }
+    } ]
+  },
+  "| 1 |:| 5 |#When I select 5 in children dropdown" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "350bdce9a47046d9",
+      "status" : "passed",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "| 1 |:| 1 |#Given I am on default locations search result screen" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5dfcd1878627af5",
+      "status" : "passed",
+      "time" : {
+        "duration" : 1
+      }
+    } ]
+  },
+  "| 1 |:| 2 |#| 2 |" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "e6bce214d728ad06",
+      "status" : "passed",
+      "time" : {
+        "duration" : 794
+      }
+    } ]
+  },
+  "| 1 |:| 4 |#When I click on 4 star" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "f7c3a6377e6e5f1c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "| 1 |:| 3 |#| 3 |" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a7b196abfa5f0fab",
+      "status" : "passed",
+      "time" : {
+        "duration" : 785
+      }
+    } ]
+  },
+  "| 1 |:Scenario: Verify timeLine is displayed in correct format#Then I verify timeline is displayed with 2 hours increment with 12 data points" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a97a5412c651bc4d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 3
+      }
+    } ]
+  },
+  "| 1 |:| 1 |#Given I am on hotels landing page" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4a64e407a89c0eca",
+      "status" : "passed",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "| 1 |:| 4 |#| 4 |" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c400bfd577301089",
+      "status" : "passed",
+      "time" : {
+        "duration" : 703
+      }
+    } ]
+  },
+  "| 1 |:| 4 |#Then I see 4 child age dropdowns" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "50a3eb0c66fb8e37",
+      "status" : "passed",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "| 1 |:| 6 |#Given I am on hotels landing page" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "665c47faa8f178f2",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2
+      }
+    } ]
+  },
+  "| 1 |:| 1 |#When I select 1 in children dropdown" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "94e0d36185c25b7e",
+      "status" : "passed",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "| 1 |:| 2 |#When I click on 2 star" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3eb1faaf912b9262",
+      "status" : "passed",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "| 1 |:| 6 |#| 6 |" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2aac969741517d89",
+      "status" : "passed",
+      "time" : {
+        "duration" : 844
+      }
+    } ]
+  },
+  "| 1 |:| 3 |#Then I see 3 child age dropdowns" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "66819d3bb7271d6a",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2
+      }
+    } ]
+  },
+  "| 1 |:| 5 |#| 5 |" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "591a9df84a1afc41",
+      "status" : "passed",
+      "time" : {
+        "duration" : 730
+      }
+    } ]
+  },
+  "| 1 |:| 2 |#Given I am on default locations search result screen" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "63ef307ae64a1aed",
+      "status" : "passed",
+      "time" : {
+        "duration" : 1
+      }
+    } ]
+  },
+  "| 1 |:| 5 |#Given I am on default locations search result screen" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "908557f4383facf9",
+      "status" : "passed",
+      "time" : {
+        "duration" : 1
+      }
+    } ]
+  },
+  "| 1 |:Scenario: Verify timeLine is displayed in correct format#Given I am on darksky home page" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1590dbea785fd413",
+      "status" : "passed",
+      "time" : {
+        "duration" : 68
+      }
+    } ]
+  },
+  "| 1 |:| 6 |#Then I see 6 child age dropdowns" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2580c1774a2f3846",
+      "status" : "passed",
+      "time" : {
+        "duration" : 1
+      }
+    } ]
+  },
+  "| 1 |:| 3 |#Given I am on default locations search result screen" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c1908df70766ee7c",
+      "status" : "passed",
+      "time" : {
+        "duration" : 1
+      }
+    } ]
+  },
+  "| 1 |:| 1 |#Then I verify hotels are 1 star rating" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6fee4f4c2e42e0a3",
+      "status" : "passed",
+      "time" : {
+        "duration" : 1
+      }
+    } ]
+  },
+  "| 1 |:| 4 |#When I select 4 in children dropdown" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a2fede817eccc05b",
+      "status" : "passed",
+      "time" : {
+        "duration" : 1
+      }
+    } ]
+  },
+  "| 1 |:| 5 |#Then I see 5 child age dropdowns" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "600ea4d41f38138d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2
+      }
+    } ]
+  },
+  "| 1 |:| 0 |#Given I am on hotels landing page" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "1c29f9c1e5b26125",
+      "status" : "passed",
+      "time" : {
+        "duration" : 1
+      }
+    } ]
+  },
+  "| 1 |:| 1 |#When I click on 1 star" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c724b994527f0a17",
+      "status" : "passed",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "| 1 |:| 2 |#Then I verify hotels are 2 star rating" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "8ddb1864f40be1cd",
+      "status" : "passed",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "| 1 |:| 3 |#Given I am on hotels landing page" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "878041477497828e",
+      "status" : "passed",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "| 1 |:| 0 |#Then I see 0 child age dropdowns" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "27368da6500f4416",
+      "status" : "passed",
+      "time" : {
+        "duration" : 2
+      }
+    } ]
+  },
+  "| 1 |:| 6 |#When I select 6 in children dropdown" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3754094603e8572f",
+      "status" : "passed",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "| 1 |:| 3 |#Then I verify hotels are 3 star rating" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9515c2a8b19b62f3",
+      "status" : "passed",
+      "time" : {
+        "duration" : 1
+      }
+    } ]
+  },
+  "| 1 |:| 2 |#Given I am on hotels landing page" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a32e18e797e94644",
+      "status" : "passed",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "| 1 |:| 1 |#| 1 |" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b67f523a97ba5acf",
+      "status" : "passed",
+      "time" : {
+        "duration" : 841
+      }
+    } ]
+  },
+  "| 1 |:| 2 |#When I select 2 in children dropdown" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "99e0b7775a44d5b2",
+      "status" : "passed",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "| 1 |:| 0 |#When I select 0 in children dropdown" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "94df284e3192f385",
+      "status" : "passed",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "| 1 |:| 5 |#When I click on 5 star" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7766028e17782a2d",
+      "status" : "passed",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "| 1 |:| 5 |#Given I am on hotels landing page" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4fdca9a2533ef7db",
+      "status" : "passed",
+      "time" : {
+        "duration" : 0
+      }
+    } ]
+  },
+  "| 1 |:| 4 |#Then I verify hotels are 4 star rating" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "855143956573eb95",
+      "status" : "passed",
+      "time" : {
+        "duration" : 1
+      }
+    } ]
+  },
+  "| 1 |:| 0 |#| 0 |" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "7364f103fb42e8d7",
+      "status" : "passed",
+      "time" : {
+        "duration" : 743
+      }
+    } ]
+  }
+}

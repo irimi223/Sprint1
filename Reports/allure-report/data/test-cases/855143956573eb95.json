@@ -1,0 +1,37 @@
+{
+  "uid" : "855143956573eb95",
+  "name" : "Then I verify hotels are 4 star rating",
+  "historyId" : "| 1 |:| 4 |#Then I verify hotels are 4 star rating",
+  "time" : {
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "| 1 |"
+  }, {
+    "name" : "testClass",
+    "value" : "| 4 |"
+  }, {
+    "name" : "package",
+    "value" : "| 4 |"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "855143956573eb95.json",
+  "parameterValues" : [ ]
+}

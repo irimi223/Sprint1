@@ -1,0 +1,465 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "Given I am on default locations search result screen",
+    "uid" : "5dfcd1878627af5",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 1
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Then I see 3 child age dropdowns",
+    "uid" : "66819d3bb7271d6a",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 2
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Given I am on default locations search result screen",
+    "uid" : "c1908df70766ee7c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 1
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "| 5 |",
+    "uid" : "591a9df84a1afc41",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 730
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Given I am on hotels landing page",
+    "uid" : "fcb5c74f80c3fe9c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 1
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Given I am on default locations search result screen",
+    "uid" : "9de7706863891b0f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 1
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Given I am on hotels landing page",
+    "uid" : "1c29f9c1e5b26125",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 1
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Then I see 5 child age dropdowns",
+    "uid" : "600ea4d41f38138d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 2
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "| 0 |",
+    "uid" : "7364f103fb42e8d7",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 743
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Then I see 2 child age dropdowns",
+    "uid" : "fafd2048201bd943",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 3
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "When I select 6 in children dropdown",
+    "uid" : "3754094603e8572f",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Then I see 0 child age dropdowns",
+    "uid" : "27368da6500f4416",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 2
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Then I see 6 child age dropdowns",
+    "uid" : "2580c1774a2f3846",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 1
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "| 4 |",
+    "uid" : "c400bfd577301089",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 703
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "| 1 |",
+    "uid" : "b67f523a97ba5acf",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 841
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "When I click on 1 star",
+    "uid" : "c724b994527f0a17",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Then I verify timeline is displayed with 2 hours increment with 12 data points",
+    "uid" : "a97a5412c651bc4d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 3
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Given I am on default locations search result screen",
+    "uid" : "908557f4383facf9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 1
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Then I verify hotels are 1 star rating",
+    "uid" : "6fee4f4c2e42e0a3",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 1
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Given I am on default locations search result screen",
+    "uid" : "63ef307ae64a1aed",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 1
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Then I verify hotels are 5 star rating",
+    "uid" : "e636707a28a88f8e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 2
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "When I click on 4 star",
+    "uid" : "f7c3a6377e6e5f1c",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Given I am on hotels landing page",
+    "uid" : "878041477497828e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Then I see 4 child age dropdowns",
+    "uid" : "50a3eb0c66fb8e37",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "When I select 2 in children dropdown",
+    "uid" : "99e0b7775a44d5b2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Then I verify hotels are 3 star rating",
+    "uid" : "9515c2a8b19b62f3",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 1
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "| 3 |",
+    "uid" : "a7b196abfa5f0fab",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 785
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Then I verify hotels are 4 star rating",
+    "uid" : "855143956573eb95",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 1
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "When I select 4 in children dropdown",
+    "uid" : "a2fede817eccc05b",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 1
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Scenario: Verify timeLine is displayed in correct format",
+    "uid" : "b9be2657916a6f3e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 837
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "When I click on 5 star",
+    "uid" : "7766028e17782a2d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Given I am on darksky home page",
+    "uid" : "1590dbea785fd413",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 68
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "When I select 0 in children dropdown",
+    "uid" : "94df284e3192f385",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "When I select 1 in children dropdown",
+    "uid" : "94e0d36185c25b7e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "| 2 |",
+    "uid" : "e6bce214d728ad06",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 794
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "When I select 5 in children dropdown",
+    "uid" : "350bdce9a47046d9",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Then I see 1 child age dropdowns",
+    "uid" : "c290bade53bb670e",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 2
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "When I click on 3 star",
+    "uid" : "122007eb8e979b1d",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Given I am on hotels landing page",
+    "uid" : "4fdca9a2533ef7db",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Given I am on hotels landing page",
+    "uid" : "4a64e407a89c0eca",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Given I am on hotels landing page",
+    "uid" : "a32e18e797e94644",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Given I am on hotels landing page",
+    "uid" : "665c47faa8f178f2",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 2
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "When I select 3 in children dropdown",
+    "uid" : "f34236c2a3030394",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "When I click on 2 star",
+    "uid" : "3eb1faaf912b9262",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "| 6 |",
+    "uid" : "2aac969741517d89",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 844
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Then I verify hotels are 2 star rating",
+    "uid" : "8ddb1864f40be1cd",
+    "parentUid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+    "status" : "passed",
+    "time" : {
+      "duration" : 0
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

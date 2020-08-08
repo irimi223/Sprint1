@@ -1,0 +1,37 @@
+{
+  "uid" : "4fdca9a2533ef7db",
+  "name" : "Given I am on hotels landing page",
+  "historyId" : "| 1 |:| 5 |#Given I am on hotels landing page",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "| 1 |"
+  }, {
+    "name" : "testClass",
+    "value" : "| 5 |"
+  }, {
+    "name" : "package",
+    "value" : "| 5 |"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4fdca9a2533ef7db.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,37 @@
+{
+  "uid" : "b9be2657916a6f3e",
+  "name" : "Scenario: Verify timeLine is displayed in correct format",
+  "historyId" : "| 1 |:Scenario: Verify timeLine is displayed in correct format#Scenario: Verify timeLine is displayed in correct format",
+  "time" : {
+    "duration" : 837
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "| 1 |"
+  }, {
+    "name" : "testClass",
+    "value" : "Scenario: Verify timeLine is displayed in correct format"
+  }, {
+    "name" : "package",
+    "value" : "Scenario: Verify timeLine is displayed in correct format"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b9be2657916a6f3e.json",
+  "parameterValues" : [ ]
+}

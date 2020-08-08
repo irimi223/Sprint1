@@ -1,0 +1,15 @@
+{
+  "total" : 1,
+  "items" : [ {
+    "uid" : "b572604a4ee2a1fc8947d995856e8d76",
+    "name" : "| 1 |",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 46,
+      "unknown" : 0,
+      "total" : 46
+    }
+  } ]
+}

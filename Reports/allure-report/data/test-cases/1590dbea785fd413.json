@@ -1,0 +1,37 @@
+{
+  "uid" : "1590dbea785fd413",
+  "name" : "Given I am on darksky home page",
+  "historyId" : "| 1 |:Scenario: Verify timeLine is displayed in correct format#Given I am on darksky home page",
+  "time" : {
+    "duration" : 68
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "| 1 |"
+  }, {
+    "name" : "testClass",
+    "value" : "Scenario: Verify timeLine is displayed in correct format"
+  }, {
+    "name" : "package",
+    "value" : "Scenario: Verify timeLine is displayed in correct format"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "1590dbea785fd413.json",
+  "parameterValues" : [ ]
+}

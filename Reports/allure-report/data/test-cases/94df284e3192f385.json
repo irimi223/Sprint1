@@ -1,0 +1,37 @@
+{
+  "uid" : "94df284e3192f385",
+  "name" : "When I select 0 in children dropdown",
+  "historyId" : "| 1 |:| 0 |#When I select 0 in children dropdown",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "| 1 |"
+  }, {
+    "name" : "testClass",
+    "value" : "| 0 |"
+  }, {
+    "name" : "package",
+    "value" : "| 0 |"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "94df284e3192f385.json",
+  "parameterValues" : [ ]
+}

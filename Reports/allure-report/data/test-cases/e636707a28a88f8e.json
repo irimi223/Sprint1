@@ -1,0 +1,37 @@
+{
+  "uid" : "e636707a28a88f8e",
+  "name" : "Then I verify hotels are 5 star rating",
+  "historyId" : "| 1 |:| 5 |#Then I verify hotels are 5 star rating",
+  "time" : {
+    "duration" : 2
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "| 1 |"
+  }, {
+    "name" : "testClass",
+    "value" : "| 5 |"
+  }, {
+    "name" : "package",
+    "value" : "| 5 |"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e636707a28a88f8e.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,37 @@
+{
+  "uid" : "99e0b7775a44d5b2",
+  "name" : "When I select 2 in children dropdown",
+  "historyId" : "| 1 |:| 2 |#When I select 2 in children dropdown",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "| 1 |"
+  }, {
+    "name" : "testClass",
+    "value" : "| 2 |"
+  }, {
+    "name" : "package",
+    "value" : "| 2 |"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "99e0b7775a44d5b2.json",
+  "parameterValues" : [ ]
+}

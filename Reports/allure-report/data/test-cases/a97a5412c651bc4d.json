@@ -1,0 +1,37 @@
+{
+  "uid" : "a97a5412c651bc4d",
+  "name" : "Then I verify timeline is displayed with 2 hours increment with 12 data points",
+  "historyId" : "| 1 |:Scenario: Verify timeLine is displayed in correct format#Then I verify timeline is displayed with 2 hours increment with 12 data points",
+  "time" : {
+    "duration" : 3
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "| 1 |"
+  }, {
+    "name" : "testClass",
+    "value" : "Scenario: Verify timeLine is displayed in correct format"
+  }, {
+    "name" : "package",
+    "value" : "Scenario: Verify timeLine is displayed in correct format"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a97a5412c651bc4d.json",
+  "parameterValues" : [ ]
+}

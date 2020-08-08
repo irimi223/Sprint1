@@ -1,0 +1,37 @@
+{
+  "uid" : "7766028e17782a2d",
+  "name" : "When I click on 5 star",
+  "historyId" : "| 1 |:| 5 |#When I click on 5 star",
+  "time" : {
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "| 1 |"
+  }, {
+    "name" : "testClass",
+    "value" : "| 5 |"
+  }, {
+    "name" : "package",
+    "value" : "| 5 |"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7766028e17782a2d.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,43 @@
+{
+  "uid" : "591a9df84a1afc41",
+  "name" : "| 5 |",
+  "historyId" : "| 1 |:| 5 |#| 5 |",
+  "time" : {
+    "duration" : 730
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "resultFormat",
+    "value" : "junit"
+  }, {
+    "name" : "suite",
+    "value" : "| 1 |"
+  }, {
+    "name" : "testClass",
+    "value" : "| 5 |"
+  }, {
+    "name" : "package",
+    "value" : "| 5 |"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "37e827fc090b1237",
+      "status" : "passed",
+      "time" : {
+        "duration" : 779
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "591a9df84a1afc41.json",
+  "parameterValues" : [ ]
+}
